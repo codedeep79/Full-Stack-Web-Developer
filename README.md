@@ -1,6 +1,6 @@
 ## 100+ Free resources for learning Full Stack Web Development.
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to my once-weekly newsletter!**
+#### **Hello! He created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to my once-weekly newsletter!**
 
 ### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
